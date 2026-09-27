@@ -96,7 +96,7 @@ Os modelos foram avaliados utilizando a classe de fraude como principal foco.
 
 Os resultados demonstram diferentes comportamentos entre os modelos.
 
-A Regressão Logística apresentou maior recall, porém com baixa precisão. O Random Forest apresentou alta precisão, mas menor recall. O XGBoost apresentou um equilíbrio entre essas métricas.
+A Regressão Logística apresentou maior recall, porém com baixa precisão. O Random Forest apresentou alta precisão, mas menor recall. O XGBoost apresentou um recall maior que o Random Forest, enquanto o Random Forest apresentou maior precisão e F1-Score.
 
 ### 5. Ajuste do threshold
 
